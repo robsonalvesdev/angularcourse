@@ -37,3 +37,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
   npm install @fortawesome/fontawesome-svg-core
   npm install @fortawesome/free-solid-svg-icons
   npm install @fortawesome/angular-fontawesome@0.13.x
+
+## Create component
+ng generate component weather-home
