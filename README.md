@@ -33,9 +33,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 - HttpClientModule
 - FormsModule
 - FontAwesomeModule
-
-https://www.npmjs.com/package/@fortawesome/angular-fontawesome
-
-npm install @fortawesome/fontawesome-svg-core
-npm install @fortawesome/free-solid-svg-icons
-npm install @fortawesome/angular-fontawesome@0.13.x
+  https://www.npmjs.com/package/@fortawesome/angular-fontawesome
+  npm install @fortawesome/fontawesome-svg-core
+  npm install @fortawesome/free-solid-svg-icons
+  npm install @fortawesome/angular-fontawesome@0.13.x
