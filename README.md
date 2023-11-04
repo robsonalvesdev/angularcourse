@@ -40,3 +40,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Create component
 ng generate component weather-home
+
+
+## Create service
+ng generate service weather-service
